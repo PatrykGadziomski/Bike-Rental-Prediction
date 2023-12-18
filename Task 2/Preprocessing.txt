@@ -1,0 +1,14 @@
+The features "season", "hum" " and "weekday" have missing values
+Because "hum" has a lot of missing values and outliers(229), we decided to exclude
+this feature.
+"Season" and "weekday" had only few missing values, so we detected the right value via the feature
+"dteday". Because of the used function, weekday has now a new order. 
+
+Instant was set to Index, to have a more chronical dataset and a better overview.
+
+Windspeed had Outliers, we replaced them with the median value.
+
+We excluded the Outliers of casual via the quantile function
+
+With histogramms we could detect, which feature is skewed (only Windspeed seemed to be skewed).
+Since we have under thousand samples is better to use the function PowerTransformation
