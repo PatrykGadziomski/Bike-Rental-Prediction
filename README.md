@@ -20,3 +20,5 @@ The project consists of three parts:
         - Feature Selection
     - results documentation and visualizations
 
+
+*For task-specific documentation: See the documentations in each folder.*
