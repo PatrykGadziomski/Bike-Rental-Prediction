@@ -26,6 +26,7 @@ The project consists of three parts:
 To predict the rental of bycycles we use a structured dataset describing bike sharing data. The Method is regression. The udes data consists of 732 rows and 18 columns containing 15 features and 3 labels. For our case the main lavel to be used is `cnt` (number of bike rentals per day).
 
 | #  | Attribute | Description |
+| --- | --- | --- |
 | 1  |  |  |
 | 2  |  |  |
 | 3  |  |  |
