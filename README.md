@@ -27,15 +27,15 @@ To predict the rental of bycycles we use a structured dataset describing bike sh
 
 | #  | Attribute | Description |
 | --- | --- | --- |
-| 1  |  |  |
-| 2  |  |  |
-| 3  |  |  |
-| 4  |  |  |
-| 5  |  |  |
-| 6  |  |  |
-| 7  |  |  |
-| 8  |  |  |
-| 9  |  |  |
+| 1  | instant | record index |
+| 2  | dteday | date |
+| 3  | season | season (1:winter, 2:spring, 3:summer, 4:fall) |
+| 4  | yr | year |
+| 5  | mnth | month (1 to 12) |
+| 6  | holiday | wheter day is holiday or not |
+| 7  | weekday | day of the week |
+| 8  | workingday | if day is neither weekend nor holidayis 1, otherwise is 0 |
+| 9  | weathersit | weather situtation: <br> 1:test|
 | 10 |  |  |
 | 11 |  |  |
 | 12 |  |  |
