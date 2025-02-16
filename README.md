@@ -1,6 +1,6 @@
 # Bike Rental Prediction
 
-The following project at the Stuttgart Media University is a student project to predict the rental of bicycles. Basic and advanced methods of data science with a focus on regression were used..<br>
+The following project at the Stuttgart Media University is a student project to predict the rental of bicycles. Basic and advanced methods of data science with a focus on regression were used.<br>
 
 ## Content
 
